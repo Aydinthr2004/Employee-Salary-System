@@ -1,0 +1,19 @@
+Employee with ID: 439 was deleted on: 2024-07-13 01:46:27
+Employee with ID: 4391 was deleted on: 2024-07-13 01:46:32
+Employee with ID: 4391 was deleted on: 2024-07-13 05:11:03
+ID: 450
+Name: mmd
+Monthly Wage: 0.0
+Overtime Hours: 0.0
+Is Manager: false
+Commission: false
+Department: Fani2
+Statue: Diactive
+Total Salary: 0.0
+Recorded On: 2024-07-13 05:11:06
+--------------------
+Employee with ID: 4391 was deleted on: 2024-07-13 08:15:33
+Employee with ID: 450 was deleted on: 2024-07-13 08:16:25
+Employee with ID: 450 was deleted on: 2024-07-13 08:16:35
+Employee with ID: 450 was deleted on: 2024-07-13 12:59:31
+Employee with ID: 439 was deleted on: 2024-12-31 21:52:32

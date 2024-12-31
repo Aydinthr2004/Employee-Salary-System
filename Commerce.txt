@@ -1,0 +1,124 @@
+438
+Aydin
+100.0
+20.0
+true
+false
+Commerce
+Active
+800.0
+2024-07-12 10:58:41
+438
+Aydin
+100.0
+20.0
+true
+false
+Commerce
+Active
+800.0
+2024-07-12 10:58:41ID: 1212
+Name: qsa
+Monthly Wage: 122.0
+Overtime Hours: 222.0
+Is Manager: true
+Commission: true
+Department: Commerce
+Statue: Active
+Total Salary: 2866.4
+Recorded On: 2024-07-13 06:50:28
+--------------------
+ID: 1212
+Name: qsa
+Monthly Wage: 122.0
+Overtime Hours: 222.0
+Is Manager: true
+Commission: true
+Department: Commerce
+Statue: Retirement
+Total Salary: 2866.4
+Recorded On: 2024-07-13 06:50:36
+--------------------
+Employee with ID: 1212 was deleted on: 2024-07-13 06:50:45
+0315726543
+pantea
+500.0
+4.0
+false
+true
+Commerce
+Active
+Total Salary: 640.0
+2024-07-13 08:14:20
+Employee with ID: 0315726543 was deleted on: 2024-07-13 08:15:07
+1272
+Cbum
+1.0
+0.0
+false
+false
+Commerce
+Active
+Total Salary: 1.0
+2024-07-13 08:33:43
+1272
+Cbum
+1.0
+0.0
+false
+false
+Commerce
+Paid Vacation
+Total Salary: 1.0
+2024-07-13 08:33:53
+2333
+Aydin
+100.0
+4.0
+true
+false
+Commerce
+Active
+Total Salary: 640.0
+2024-07-13 12:52:57
+4112
+Aref
+1000.0
+10.0
+true
+true
+Commerce
+Fired
+Total Salary: 1800.0
+2024-07-13 12:53:32
+439
+Mahan
+100.0
+6.0
+true
+false
+Commerce
+Active
+Total Salary: 660.0
+2024-07-13 13:19:49
+124
+aydin
+1000.0
+2.0
+true
+true
+Commerce
+Fired
+Total Salary: 1720.0
+2024-10-24 09:53:45
+124
+aydin
+200.0
+2.0
+true
+true
+Commerce
+Fired
+Total Salary: 760.0
+2024-10-24 09:54:01
+Employee with ID: 124 was deleted on: 2024-10-24 09:54:09
